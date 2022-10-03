@@ -1,15 +1,29 @@
 {
+  "pages": [
+    {
+      "id": "2 Application Upload",
+      "isDefault": false
+    },
+    {
+      "id": "3 Feeedback Form",
+      "isDefault": false
+    },
+    {
+      "id": "1 Track Applications",
+      "isDefault": false
+    },
+    {
+      "id": "Page1",
+      "isDefault": true
+    }
+  ],
   "viewMode": false,
   "appIsExample": false,
   "unreadCommentThreads": 0,
-  "color": "#F5D1D1",
-  "icon": "steam-bowl",
+  "color": "#C7F3E3",
+  "icon": "moon",
   "evaluationVersion": 2,
-  "applicationVersion": 2,
+  "applicationVersion": 1,
   "isManualUpdate": false,
-  "createdAt": {
-    "seconds": 1651658398,
-    "nanos": 719000000
-  },
   "deleted": false
 }
